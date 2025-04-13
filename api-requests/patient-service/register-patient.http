@@ -1,0 +1,13 @@
+### POST request to register patient
+POST http://localhost:4001/patients
+Content-Type: application/json
+
+{
+  "name": "Deepak Upadhyay",
+  "email": "dkupadhy@gmail.com",
+  "address": "123 OFSS Pune",
+  "dateOfBirth": "2005-09-08",
+  "registeredDate": "2024-11-28"
+}
+
+###
