@@ -1,0 +1,13 @@
+### PUT request to modifying existing patient
+PUT http://localhost:4001/patients/223e4567-e89b-12d3-a456-426614174010
+Content-Type: application/json
+
+{
+  "name": "Divya Nair2",
+  "email": "divya.nair@example.in",
+  "address": "56 Panampilly Nagar, Kochi, Kerala",
+  "dateOfBirth": "1980-08-09"
+
+}
+
+###
