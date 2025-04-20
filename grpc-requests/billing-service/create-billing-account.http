@@ -1,0 +1,8 @@
+GRPC localhost:9001/BillingService/CreateBillingAccount
+
+
+{
+  "patientId" : "123454",
+  "name" : "Deepak Kumar Upadhyay",
+  "email" : "dkupadhy@gmail.com"
+}
