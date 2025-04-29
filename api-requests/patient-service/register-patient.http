@@ -3,8 +3,8 @@ POST http://localhost:4001/patients
 Content-Type: application/json
 
 {
-  "name": "Deepak Kumar Upadhyay",
-  "email": "deepakkupadhy@gmail.com",
+  "name": "Sanket Kumar Upadhyay",
+  "email": "skupadhy@gmail.com",
   "address": "124 OFSS Pune",
   "dateOfBirth": "2005-09-08",
   "registeredDate": "2024-11-28"
