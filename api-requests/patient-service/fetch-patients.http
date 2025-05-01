@@ -1,4 +1,5 @@
 ### GET request to fetch all patients
-GET http://localhost:4001/patients
+#GET http://localhost:4001/patients  ----- This 4001 patient now hidden, and only accessible through api-gateway now
+GET http://localhost:4004/api/patients
 
 ###
